@@ -2,17 +2,17 @@
   "day" : [
     {
       "id" : 1,
-      "url" : "https://drive.google.com/file/d/1hg-xo3buyJ4VCKYh_Z8P6YgADZg08TeL/view?usp=sharing"
+      "url" : "1hg-xo3buyJ4VCKYh_Z8P6YgADZg08TeL"
     },
     {
       "id" : 2,
-      "url" : "https://drive.google.com/file/d/1hwlh_NDSjj43o0XT2raBwnMQC5nN_EH2/view?usp=sharing"
+      "url" : "1hwlh_NDSjj43o0XT2raBwnMQC5nN_EH2"
     }
   ],
   "month": [
     {
       "id" : 1,
-      "url" : "https://drive.google.com/file/d/1oOOmDja9VVimxCIHDP9AMCmjn5o0sJ2O/view?usp=sharing"
+      "url" : "1oOOmDja9VVimxCIHDP9AMCmjn5o0sJ2O"
     }
   ]
 }
